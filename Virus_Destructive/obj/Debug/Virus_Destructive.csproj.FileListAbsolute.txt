@@ -1,0 +1,38 @@
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus.resources
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Properties.Resources.resources
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.csproj.GenerateResource.cache
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.csproj.CoreCompileInputs.cache
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\bin\Debug\Virus_Destructive.exe
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\bin\Debug\Virus_Destructive.pdb
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.exe
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.pdb
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus_payload.resources
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus_last.resources
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus_sound.resources
+C:\Users\Worm\source\repos\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.virus_last_again.resources
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\bin\Debug\Virus_Destructive.exe
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\bin\Debug\Virus_Destructive.pdb
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.csprojAssemblyReference.cache
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus.resources
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Properties.Resources.resources
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus_last.resources
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.virus_last_again.resources
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus_payload.resources
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus_sound.resources
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.csproj.GenerateResource.cache
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.csproj.CoreCompileInputs.cache
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.exe
+C:\Users\lolpippiou\Downloads\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.pdb
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\bin\Debug\Virus_Destructive.exe
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\bin\Debug\Virus_Destructive.pdb
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.csprojAssemblyReference.cache
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus.resources
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Properties.Resources.resources
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus_last.resources
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.virus_last_again.resources
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus_payload.resources
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.Virus_sound.resources
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.csproj.GenerateResource.cache
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.csproj.CoreCompileInputs.cache
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.exe
+D:\Stuff for VMs\Malware\lolware\Virus_Destructive\Virus_Destructive\obj\Debug\Virus_Destructive.pdb
